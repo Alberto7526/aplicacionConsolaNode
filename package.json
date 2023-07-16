@@ -1,0 +1,15 @@
+{
+  "name": "02-bases-node",
+  "version": "0.0.1",
+  "description": "Script para crear tablas de multiplicar con archivo de text .txt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Lizcano",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
